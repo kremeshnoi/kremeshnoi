@@ -19,7 +19,7 @@ jobs:
           SHOW_TITLE: true
           SHOW_TIME: false
           TIME_RANGE: all_time
-          CODE_LANG: rust
+          CODE_LANG: lua
           LANG_COUNT: 10
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           IGNORED_LANGUAGES: Vue.js YAML YML TOML JSON Markdown HTML CSS SCSS XML
