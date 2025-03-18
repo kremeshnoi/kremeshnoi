@@ -8,9 +8,9 @@ A happy owner of a corgi and a person who is passionate about programming
 ```rust
 From: 17 March 2025 - To: 18 March 2025
 
-PHP                          >>>>>>>>>>>>>>-----------   54.96 %
-JavaScript                   >>>----------------------   12.21 %
-Rust                         >------------------------   03.46 %
+PHP                          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   54.96 %
+JavaScript                   ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.21 %
+Rust                         ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.46 %
 ```
 
 <!--END_SECTION:waka-->
