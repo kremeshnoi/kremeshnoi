@@ -3,10 +3,6 @@
 
 A happy owner of a corgi and a person who is passionate about programming
 
----
-<img align="left" style="width: 500px" src="https://github-readme-stats.vercel.app/api/wakatime/?username=kremeshnoi&v=2" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kremeshnoi&langs_count=3" />
-
 ----
 Get in touch with me : 
 - <a href="mailto:alexander.kremeshnoi@gmail.com">alexander.kremeshnoi@gmail.com</a>
