@@ -4,6 +4,11 @@
 A happy owner of a corgi and a person who is passionate about programming
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ----
