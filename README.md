@@ -6,7 +6,11 @@ A happy owner of a corgi and a person who is passionate about programming
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+PHP          1 hr 1 min      █████████████▓░░░░░░░░░░░   54.96 %
+YAML         26 mins         ██████░░░░░░░░░░░░░░░░░░░   23.64 %
+JavaScript   13 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.21 %
+Vue.js       6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 %
+Rust         3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
 ```
 
 <!--END_SECTION:waka-->
