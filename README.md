@@ -27,11 +27,11 @@ Get in touch with me :
 ---
 
 <a href="https://www.codewars.com/users/Alexander%20Kremeshnoi">
-  <img align="left" style="height: 70px;" src="https://github.com/user-attachments/assets/9a9007e0-ae30-454a-8f82-dbd7edcd5e52" />
+  <img align="left" style="height: 50px;" src="https://github.com/user-attachments/assets/9a9007e0-ae30-454a-8f82-dbd7edcd5e52" />
 </a>
 
 <a href="https://publish.obsidian.md/computer-science-vault">
-  <img align="left" style="height: 70px;" src="https://github.com/user-attachments/assets/4e0fed43-db23-44c2-9936-ba799dae98ae" />
+  <img align="left" style="height: 50px;" src="https://github.com/user-attachments/assets/4e0fed43-db23-44c2-9936-ba799dae98ae" />
 </a>
 
 
