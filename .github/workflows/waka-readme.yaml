@@ -22,4 +22,4 @@ jobs:
           CODE_LANG: lua
           LANG_COUNT: 10
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
-          IGNORED_LANGUAGES: Vue.js YAML YML TOML JSON Markdown HTML CSS SCSS XML Bash
+          IGNORED_LANGUAGES: Vue.js YAML YML TOML JSON Markdown HTML CSS SCSS XML Text ".env file" Other
