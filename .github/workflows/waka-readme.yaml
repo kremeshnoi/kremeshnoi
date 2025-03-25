@@ -20,6 +20,6 @@ jobs:
           SHOW_TIME: false
           TIME_RANGE: all_time
           CODE_LANG: lua
-          LANG_COUNT: 5
+          LANG_COUNT: 10
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
-          IGNORED_LANGUAGES: YAML YML TOML JSON HTML CSS SCSS XML Vue.js Markdown Text Bash ".env file" INI
+          IGNORED_LANGUAGES: YAML YML TOML JSON HTML CSS SCSS XML INI Bash Markdown Makefile Text Diff Git Vue.js ".env file" "Git Config" gitignore
