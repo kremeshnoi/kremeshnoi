@@ -23,4 +23,4 @@ jobs:
           LANG_COUNT: 10
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           STOP_AT_OTHER: true
-          IGNORED_LANGUAGES: YAML YML TOML JSON HTML CSS SCSS XML INI Bash Markdown Makefile Text Diff Git Vue.js ".env file" "Git Config" gitignore reStructuredText textmate Other
+          IGNORED_LANGUAGES: YAML YML TOML JSON HTML CSS SCSS XML INI Bash Markdown Makefile Text Diff Git Vue.js ".env file" "Git Config" gitignore "GitIgnore file" reStructuredText textmate Other
