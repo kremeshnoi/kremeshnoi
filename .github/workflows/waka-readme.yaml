@@ -25,4 +25,4 @@ jobs:
           STOP_AT_OTHER: true
           IGNORED_LANGUAGES: YAML YML TOML JSON HTML CSS SCSS XML INI Bash Markdown Makefile Text Diff Git Vue.js 
             ".env file" "Git Config" gitignore "GitIgnore file" "Java Properties" Properties reStructuredText textmate 
-            Other "Image (svg)"
+            Other "Image (svg)" Log
