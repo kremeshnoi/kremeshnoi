@@ -1,6 +1,3 @@
-* obsessed with React.js, Tailwind UI and Rust
-* currently working on my [passion project](https://github.com/otakulibrary)
-
 A happy owner of a corgi and a person who is passionate about programming
 
 <!--START_SECTION:waka-->
@@ -29,13 +26,17 @@ Get in touch with me :
 ---
 
 <a href="https://www.codewars.com/users/Alexander%20Kremeshnoi">
-  <img align="left" style="height: 50px;" src="https://github.com/user-attachments/assets/9a9007e0-ae30-454a-8f82-dbd7edcd5e52" />
+  <img align="left" style="height: 50px;" src="https://github.com/user-attachments/assets/e009440e-f37a-46be-924f-2a3d51349ea7" />
 </a>
 
 <a href="https://publish.obsidian.md/computer-science-vault">
-  <img align="left" style="height: 50px;" src="https://github.com/user-attachments/assets/4e0fed43-db23-44c2-9936-ba799dae98ae" />
+  <img align="left" style="height: 50px;" src="https://github.com/user-attachments/assets/43ef0079-8a84-4893-90b7-ecfef939237f" />
 </a>
 
 <a href="https://app.warp.dev/referral/QXELWK">
-  <img align="left" style="height: 50px;" src="https://github.com/user-attachments/assets/65994ae2-4922-434f-a159-c72bb351355e" />
+  <img align="left" style="height: 50px;" src="https://github.com/user-attachments/assets/2a9cef7b-5ad5-4318-b760-ff33ce9c0cd5" />
+</a>
+
+<a href="https://www.raycast.com/kremeshnoi">
+  <img align="left" style="height: 50px;" src="https://github.com/user-attachments/assets/40730fbf-bcca-4b00-97b2-b1f7732593b6" />
 </a>
