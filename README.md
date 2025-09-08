@@ -3,7 +3,7 @@ A happy owner of a corgi and a person who is passionate about programming
 <!--START_SECTION:waka-->
 
 ```lua
-From: 23 June 2025 - To: 05 September 2025
+From: 23 June 2025 - To: 06 September 2025
 
 TypeScript                       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   35.67 %
 JavaScript                       ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   24.17 %
