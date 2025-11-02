@@ -1,27 +1,28 @@
 name: Waka Readme
 
 on:
-  push:
-    branches:
-      - master
-  workflow_dispatch:
-  schedule:
-    - cron: "0 0 * * *"
+    push:
+        branches:
+            - master
+    workflow_dispatch:
+    schedule:
+        - cron: "0 0 * * *"
 
 jobs:
-  update-readme:
-    name: Update this repo's README
-    runs-on: ubuntu-latest
-    steps:
-      - uses: athul/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TITLE: true
-          SHOW_TIME: false
-          TIME_RANGE: all_time
-          CODE_LANG: lua
-          LANG_COUNT: 10
-          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
-          IGNORED_LANGUAGES: YAML YML TOML JSON HTML CSS SCSS XML INI Markdown Makefile Text Diff Git Vue.js pdf Io  
-            ".env file" "Git Config" gitignore "GitIgnore file" "Java Properties" Properties reStructuredText textmate 
-            Other "Image (svg)" Log "ESLint File" "yarn.lock"
+    update-readme:
+        name: Update this repo's README
+        runs-on: ubuntu-latest
+        steps:
+            - uses: athul/waka-readme@master
+              with:
+                  WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+                  SHOW_TITLE: true
+                  SHOW_TIME: false
+                  TIME_RANGE: all_time
+                  CODE_LANG: lua
+                  LANG_COUNT: 10
+                  BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
+                  IGNORED_LANGUAGES:
+                      YAML YML TOML JSON HTML CSS SCSS XML INI Markdown Makefile Text Diff Git Vue.js pdf Io
+                      ".env file" "Git Config" gitignore "GitIgnore file" "Java Properties" Properties reStructuredText textmate
+                      Other "Image (svg)" Log "ESLint File" "yarn.lock" jsonc
