@@ -26,3 +26,7 @@ jobs:
                       YAML YML TOML JSON HTML CSS SCSS XML INI Markdown Makefile Text Diff Git Vue.js pdf Io
                       ".env file" "Git Config" gitignore "GitIgnore file" "Java Properties" Properties reStructuredText textmate
                       Other "Image (svg)" Log "ESLint File" "yarn.lock" jsonc
+                  SHOW_LANGUAGES: true
+                  SHOW_EDITORS: true
+                  SHOW_OPERATING_SYSTEMS: true
+                  SHOW_CATEGORIES: true
