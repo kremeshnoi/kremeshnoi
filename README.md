@@ -34,9 +34,5 @@ Writing Docs                    ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!--END_SECTION:waka-->
 
-----
-Get in touch with me :
-- <a href="mailto:alexander.kremeshnoi@outlook.com">alexander.kremeshnoi@outlook.com</a>
-
 ---
 [Checkout my CV](https://kremeshnoi.github.io)
