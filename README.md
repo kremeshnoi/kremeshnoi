@@ -8,7 +8,7 @@ A happy owner of a corgi and a person who is passionate about programming
 
 <!--START_SECTION:waka-->
 
-```json
+```yaml
 From: 29 April 2026 - To: 30 April 2026
 
 Languages:
